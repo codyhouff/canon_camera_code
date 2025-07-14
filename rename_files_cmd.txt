@@ -1,0 +1,1 @@
+for %F in (IMG_*.CR3) do ren "%F" "Lake_%F"
